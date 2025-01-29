@@ -8,3 +8,13 @@ Click "Generate Python Question" to display a question.
 Select an answer from the multiple-choice options.
 Click "Submit" to check your answer.
 Receive immediate feedback on whether your answer is correct.
+
+Future Improvements
+
+Add more Python topics and questions.
+
+Implement a scoring system.
+
+Enhance UI with additional styling.
+
+Include a timer for answering questions.
